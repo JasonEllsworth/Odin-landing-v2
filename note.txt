@@ -1,0 +1,17 @@
+  -get teh basic HTML set up, all containers etc
+    -get the basic images in place
+    -make sure each element has the correct element and clss/ID
+
+2. 
+    -Start to fill in the layout of page
+        navigation
+            -background #1f2937
+            -text f9faf8
+            -logo [space pc]
+            -links [set to different parts of the page eg; example pcs, example quotes, get started]
+
+    -use flex box and margins to create the lay out
+        !Do not worry about making it a mobile landing page.
+
+3. 
+    - fill in the rest of the coloring etc.
